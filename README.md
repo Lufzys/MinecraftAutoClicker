@@ -1,0 +1,2 @@
+# MinecraftAutoClicker
+Minecraft Auto Clicker
