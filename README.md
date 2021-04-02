@@ -1,5 +1,5 @@
 # MinecraftAutoClicker
-Minecraft Auto Clicker
+Minecraft Auto Clicker powered by WindowsUI ![WindowsUI Github](https://github.com/lysep-corp/WindowsUI)
 # Features
 ![alt text](https://github.com/Lufzys/MinecraftAutoClicker/blob/main/example01_02042021.PNG?raw=true)
 # Settings
